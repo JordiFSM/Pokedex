@@ -9,7 +9,8 @@
 <br/>
 <br/>
 
-##LIVE DEMO: https://pokedex-jordifsm.netlify.app/
+## LIVE DEMO: https://pokedex-jordifsm.netlify.app/
+<br/>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
