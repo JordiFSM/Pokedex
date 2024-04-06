@@ -5,7 +5,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      outfit: ["Outfit", "sans-serif"],
+    },
+    animation: {
+      "spin-slow": "spin 2.5s linear infinite",
+    },
   },
   plugins: [],
 }
